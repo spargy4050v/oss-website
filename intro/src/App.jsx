@@ -44,7 +44,7 @@ const App = () => {
 
           <p className="text-md mt-5 max-w-2xl">
             Joining us is as easy as it gets. Just apply directly by filling the
-            form here, no extra steps.
+            form here, no steps.
           </p>
 
           <a
